@@ -183,7 +183,10 @@ h3 {
 }
 
 @media (max-width:500px) {
-    html {
-        font-size: 12px;
+    html{
+        font-size: 16px;
+    }
+    .container {
+        font-size: 10px;
     }
 }
