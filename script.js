@@ -13,7 +13,7 @@ const search = document.querySelector(".search");
 const btn = document.querySelector(".submit");
 const cities = document.querySelectorAll(".city");
 
-let cityInput= "Visakhapatnam"
+let cityInput= "Paris";
 cities.forEach((city)=>{
     city.addEventListener("click",(event)=>{
         cityInput=event.target.innerText;
