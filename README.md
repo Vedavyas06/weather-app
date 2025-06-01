@@ -4,7 +4,7 @@ A responsive and modern Weather App built using **HTML**, **CSS**, and **JavaScr
 
 ## 🚀 Live Demo
 
-🔗 [Live Website](vedavyas06.github.io/weather-app/)  
+🔗 [Live Website](https://vedavyas06.github.io/weather-app/)  
 
 ## 🔍 Features
 
